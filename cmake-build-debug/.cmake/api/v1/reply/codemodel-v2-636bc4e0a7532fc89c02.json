@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test_CLion",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_CLion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_CLion-Debug-c1483815b8f52e4fa933.json",
+					"name" : "test_CLion",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/MrSnow/Documents/Bachelor FHTW/Semester 1/Prozedurale Sprachen/Zwischentest3_Dulca_L\u00f6sung/cmake-build-debug",
+		"source" : "C:/Users/MrSnow/Documents/Bachelor FHTW/Semester 1/Prozedurale Sprachen/Zwischentest3_Dulca_L\u00f6sung"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
